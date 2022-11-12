@@ -1,0 +1,9 @@
+.text-editor{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+*{
+    padding:auto;
+    margin:0 auto;
+}
